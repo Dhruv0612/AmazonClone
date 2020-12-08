@@ -1,0 +1,34 @@
+[
+    {
+        "title":"JAVA FULL STACK",
+        "imageUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40chamikakasun%2Fhow-to-manage-multiple-java-version-in-macos-e5421345f6d0&psig=AOvVaw0dGNkaWnm_rDJSjRhoeYOl&ust=1607415039690000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLif2em1u-0CFQAAAAAdAAAAABAD",
+        "id":1,
+        "linkUrl":"category/javafs"},
+    
+    {
+        "title":"JAVASCRIPT FULL STACK",
+        "imageUrl":"https://miro.medium.com/max/8544/0*ok51b2bP1XoBNDbs",
+        "id":2,
+        "linkUrl":"category/jsfs"},
+
+    {
+        "title":"PYTHON FULL STACK",
+        "imageUrl":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/11/776852-626327-python.jpg",
+        "id":3,
+        "linkUrl":"category/pfs"},
+
+    {
+        "title":"PROGRAMMING BOOTCAMP",
+        "imageUrl":"https://2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Bootcamp-MOOC-Learning-Tech-Coding-Programming-Dice-1024x640.png",
+        "id":4,
+        "featured":true,
+        "linkUrl":"category/bootcamp"},
+
+    {
+        "title":"DATA SCIENCE",
+        "imageUrl":"https://i1.wp.com/thedatascientist.com/wp-content/uploads/2019/06/what-is-data-science.jpg?fit=1920%2C1080&ssl=1",
+        "id":5,
+        "size":"large",
+        "featured":true,
+        "linkUrl":"category/ds"}
+]
