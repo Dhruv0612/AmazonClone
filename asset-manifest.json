@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Amazon-clone/static/css/main.074b63e5.chunk.css",
-    "main.js": "/Amazon-clone/static/js/main.0def6905.chunk.js",
-    "main.js.map": "/Amazon-clone/static/js/main.0def6905.chunk.js.map",
-    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.2798aec0.js",
-    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.2798aec0.js.map",
-    "static/js/2.1ce34322.chunk.js": "/Amazon-clone/static/js/2.1ce34322.chunk.js",
-    "static/js/2.1ce34322.chunk.js.map": "/Amazon-clone/static/js/2.1ce34322.chunk.js.map",
-    "static/js/3.49b1c11c.chunk.js": "/Amazon-clone/static/js/3.49b1c11c.chunk.js",
-    "static/js/3.49b1c11c.chunk.js.map": "/Amazon-clone/static/js/3.49b1c11c.chunk.js.map",
-    "index.html": "/Amazon-clone/index.html",
-    "static/css/main.074b63e5.chunk.css.map": "/Amazon-clone/static/css/main.074b63e5.chunk.css.map",
-    "static/js/2.1ce34322.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.1ce34322.chunk.js.LICENSE.txt"
+    "main.css": "/Amazon-Clone/static/css/main.074b63e5.chunk.css",
+    "main.js": "/Amazon-Clone/static/js/main.0def6905.chunk.js",
+    "main.js.map": "/Amazon-Clone/static/js/main.0def6905.chunk.js.map",
+    "runtime-main.js": "/Amazon-Clone/static/js/runtime-main.80431ceb.js",
+    "runtime-main.js.map": "/Amazon-Clone/static/js/runtime-main.80431ceb.js.map",
+    "static/js/2.25af5b50.chunk.js": "/Amazon-Clone/static/js/2.25af5b50.chunk.js",
+    "static/js/2.25af5b50.chunk.js.map": "/Amazon-Clone/static/js/2.25af5b50.chunk.js.map",
+    "static/js/3.49b1c11c.chunk.js": "/Amazon-Clone/static/js/3.49b1c11c.chunk.js",
+    "static/js/3.49b1c11c.chunk.js.map": "/Amazon-Clone/static/js/3.49b1c11c.chunk.js.map",
+    "index.html": "/Amazon-Clone/index.html",
+    "static/css/main.074b63e5.chunk.css.map": "/Amazon-Clone/static/css/main.074b63e5.chunk.css.map",
+    "static/js/2.25af5b50.chunk.js.LICENSE.txt": "/Amazon-Clone/static/js/2.25af5b50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2798aec0.js",
-    "static/js/2.1ce34322.chunk.js",
+    "static/js/runtime-main.80431ceb.js",
+    "static/js/2.25af5b50.chunk.js",
     "static/css/main.074b63e5.chunk.css",
     "static/js/main.0def6905.chunk.js"
   ]
